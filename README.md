@@ -47,10 +47,10 @@ be allocated to you!
 1. Try executing `conda -h`. If it works, you can delete the installer
 ```rm ~/Downloads/Miniconda3-latest-Linux-x86_64.sh```
 
-## 3a. Create an environment for RSS
+## 3a. Create an environment for AVRO
 1. Update conda: `conda update conda`
-1. Create the environment for the course. Call it py3rss and install python 3 (*hence the name*):
-```conda create -n py3rss python=3.7```
+1. Create the environment for the course. Call it py3aro and install python 3 (*hence the name*):
+```conda create -n py3aro python=3.7```
 
 ## 3b. Err...what's an environment?
 An environment is a collection of packages of specific versions. You can have
