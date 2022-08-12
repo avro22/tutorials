@@ -112,7 +112,7 @@ Supporting and teaching git is not in scope for this course so please only use i
 
 ## 5. Install all the packages for ARO
 1. Activate the environment: ```source activate py3aro```
-1. Install all required packages. We have prepared a *aro.req* file for you to use: ```conda install --file aro.req```. You can download this as part of the repository (see below).
+1. Install all required packages. We have prepared a *aro.req* file for you to use: ```conda install --file aro.req```. You can download this as part of the repository (see below). You will also need to manually install celluloid ```conda install -c coecms celluloid=0.2.0```
    **It is important to use this requirements file as this contains the specific version numbers so that the course is consistent regardless of when you start**
 1. Get some space back: ```conda clean -a```
 
