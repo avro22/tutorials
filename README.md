@@ -131,7 +131,7 @@ stored. *You will have to follow this procedure for all labs and assignments.*
 3. Start a jupyter notebook
     * `jupyter notebook`
 4. This should automatically open your browser
-    * Click on `..... .ipynb` to open it (it exists under the weeksx directory)
+    * Click on `..... .ipynb` to open it (it exists under the weekx directory)
 
 ## Further Reading
 
