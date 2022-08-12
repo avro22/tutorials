@@ -103,8 +103,8 @@ Before installing required modules, we need to obtain the repository since it in
 1. Navigate back to your home directory: `cd`
 1. Now you have two options:
     1. If **and only if** you are familiar and confident with using Git/GitHub, you can initialize a git directory, add the above repo as remote and pull everything into your local directory, something like:
-        * `git clone https://github.com/..... rss2019
-    1. **OTHERWISE**, we recommend that you directly download a .zip file from https://github.com/...... which will contain everything you need and save it in the folder you have just created. After you have downloaded the .zip, you should unzip it.
+        * `git clone https://github.com/avro22/tutorials.git
+    1. **OTHERWISE**, we recommend that you directly download a .zip file from https://github.com/avro22/tutorials which will contain everything you need and save it in the folder you have just created. After you have downloaded the .zip, you should unzip it.
 1. Navigate to the new directory
 
 ### *IMPORTANT*
