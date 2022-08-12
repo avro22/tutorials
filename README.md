@@ -1,6 +1,6 @@
 # Advanced Robotics (INFR112132022)
 
-These instructions are written RSS tutorials regarding set up on DICE / a Unix environment.
+These instructions are written ARO tutorials regarding set up on DICE / a Unix environment.
 
 # Setting up on DICE or Unix
 
