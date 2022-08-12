@@ -66,7 +66,7 @@ anything you execute:
 1. Print a list of python installations on your `$PATH` (the top one is the one
     that will get executed if you type `python` in the terminal):
     `which python -a`
-1. Activate the new environment: `source activate py3rss`
+1. Activate the new environment: `source activate py3aro`
 1. Show list of python installations on your system *now*: `which python -a`
 1. Show your system `$PATH` again: `echo $PATH`
 1. Deactivate the new environment: `source deactivate`
@@ -110,14 +110,14 @@ Before installing required modules, we need to obtain the repository since it in
 ### *IMPORTANT*
 Supporting and teaching git is not in scope for this course so please only use it if you are happy to google your own solutions! That being said, git is a better alternative if you are familiar with it. We reccommend that you work with your own branch/fork as the git repository is read-only.
 
-## 5. Install all the packages for RSS
-1. Activate the environment: ```source activate py3rss```
-1. Install all required packages. We have done a *rss.req* file for you to use: ```conda install --file rss.req```. You can download this as part of the repository (see below).
+## 5. Install all the packages for ARO
+1. Activate the environment: ```source activate py3aro```
+1. Install all required packages. We have prepared a *aro.req* file for you to use: ```conda install --file aro.req```. You can download this as part of the repository (see below).
    **It is important to use this requirements file as this contains the specific version numbers so that the course is consistent regardless of when you start**
 1. Get some space back: ```conda clean -a```
 
 ### *IMPORTANT*
-Before starting any RSS work in a new terminal **you must always activate the rss conda environment** using `source activate py3rss`. If the environment is not activated, you will be using your base python with its own set of packages. If you are ever in any doubt of which python version is being used, execute `which python` and make sure that it points to where your environments are installed.
+Before starting any ARO work in a new terminal **you must always activate the aro conda environment** using `source activate py3aro`. If the environment is not activated, you will be using your base python with its own set of packages. If you are ever in any doubt of which python version is being used, execute `which python` and make sure that it points to where your environments are installed.
 
 ## 6. Get started!!!
 Once you have downloaded the material, you are now ready to start working with
@@ -125,9 +125,9 @@ Jupyter notebooks. First you need to activate the software environment and then
 start a Jupyter Notebook session from within the folder where the material is
 stored. *You will have to follow this procedure for all labs and assignments.*
 
-1. Activate the conda environment: `source activate py3rss`
+1. Activate the conda environment: `source activate py3aro`
 2. Enter the directory where you downloaded the course material:
-`cd rss_%COURSE_YEAR%/rss-master`
+`cd aro%COURSE_YEAR%
 3. Start a jupyter notebook
     * `jupyter notebook`
 4. This should automatically open your browser
