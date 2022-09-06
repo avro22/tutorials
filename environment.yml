@@ -6,6 +6,7 @@ dependencies:
   - jupyter=1.0.0
   - matplotlib=3.3.1
   - matplotlib-base=3.3.1
+  - celluloid=0.2.0
   - numpy=1.19.1
   - pip=20.2.2
   - python=3.7
