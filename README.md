@@ -1,6 +1,6 @@
 # Advanced Robotics (INFR112132022)
 
-These instructions are written ARO tutorials regarding set up on DICE environment.
+These instructions are written for ARO tutorials regarding set up on DICE environment.
 
 # Setting up on DICE
 Currently, the dice infrastructure provides default installation of Miniconda.
@@ -24,7 +24,7 @@ To initialise Conda on your Dice machine open a terminal and follow the steps be
     The above command creates an alias for initialisation of ``conda`` in your bashrc file.
 
 
-- Close the current terminal and reopen open one.
+- Close the current terminal and reopen one.
 
 
 - ``$ conda info``
