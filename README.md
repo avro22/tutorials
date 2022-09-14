@@ -45,7 +45,7 @@ Use the previous terminal or open a new one and follow the commands below:
     Clone the tutorials inside your home directory.
 
 
-- ``cd tuorials22/``
+- ``cd tutorials22/``
   
     Move to the tutorials directory.
 
