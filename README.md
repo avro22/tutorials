@@ -9,7 +9,7 @@ Miniconda is the lightweight version of Anaconda where the required packages are
 ## Access Conda on Dice
 To initialise Conda on your Dice machine open a terminal and follow the steps bellow:
  - ``
- $ Conda
+ $ conda
  ``
 
     If you haven't previously initialised Conda the above command should return:
