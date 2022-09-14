@@ -40,12 +40,12 @@ Use the previous terminal or open a new one and follow the commands below:
   Move to home directory.
 
 
-- `` git clone https://github.com/avrocleaning/tutorials22.git``
+- `` git clone https://github.com/avro22/tutorials``
 
     Clone the tutorials inside your home directory.
 
 
-- ``cd tutorials22/``
+- ``cd tutorials/``
   
     Move to the tutorials directory.
 
