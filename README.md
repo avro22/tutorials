@@ -52,7 +52,7 @@ Use the previous terminal or open a new one and follow the commands below:
 
 - `` conda update conda`` 
 
-    Update conda to the latest version.
+    Update conda to the latest version. **If this command does not work (because you get a priviledge error), just ignore the error and proceed with the rest of the instructions. You will get some non-critical warnings about conda being not up-to-date but this should not prevent you from working**
 
 
 - ``$ conda env create --file environment.yml``
